@@ -1,0 +1,25 @@
+
+<script src="{{asset('asset/js/popper.min.js')}}"></script>
+<script src="{{asset('asset/js/bootstrap.min.js')}}"></script>
+<script src="{{asset('asset/js/jquery.sparkline.min.js')}}"></script>
+<script src="{{asset('asset/js/circle-progress.min.js')}}"></script>
+<script src="{{asset('asset/js/jquery.star-rating.js')}}"></script>
+<script src="{{asset('asset/js/star-rating.js')}}"></script>
+<script src="{{asset('asset/js/owl.carousel.js')}}"></script>
+<script src="{{asset('asset/js/owl-carousel.js')}}"></script>
+<script src="{{asset('asset/js/horizontal.js')}}"></script>
+<script src="{{asset('asset/js/counterup.min.js')}}"></script>
+<script src="{{asset('asset/js/waypoints.min.js')}}"></script>
+<script src="{{asset('asset/js/numeric-counter.js')}}"></script>
+<script src="{{asset('asset/js/jquery.touchSwipe.min.js')}}"></script>
+<script src="{{asset('asset/js/jquery.ihavecookies.js')}}"></script>
+<script src="{{asset('asset/js/cookie.js')}}"></script>
+<script src="{{asset('asset/js/jquery.lwtCountdown-1.0.js')}}"></script>
+<script src="{{asset('asset/js/pscrollbar.js')}}"></script>
+<script src="{{asset('asset/js/sticky.js')}}"></script>
+<script src="{{asset('asset/js/custom-sticky.js')}}"></script>
+<script src="{{asset('asset/js/swipe.js')}}"></script>
+<script src="{{asset('asset/js/switcher.js')}}"></script>
+<script src="{{asset('asset/js/themeColors.js')}}"></script>
+<script src="{{asset('asset/js/switcher-styles.js')}}"></script>
+<script src="{{asset('asset/js/custom.js')}}"></script>
